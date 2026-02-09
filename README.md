@@ -1,2 +1,6 @@
 # opensorce-25-2
-오픈소스 소프트웨어개론 실습
+
+Learn opensource software Introduction
+
+1. pdf
+2. assignment
